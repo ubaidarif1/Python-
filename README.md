@@ -1,2 +1,2 @@
-# Python-
-In this repository, you can find the projects related to data cleaning with python.
+# Python data-cleaning
+You can find projects related to data cleaning with Python in this repository.
